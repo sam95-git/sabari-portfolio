@@ -40,5 +40,6 @@
   },
   "devDependencies": {
     "tailwindcss": "^3.4.1"
-  }
+  },
+  "homepage": "https://sam95-git.github.io/sabari-portfolio/src"
 }
