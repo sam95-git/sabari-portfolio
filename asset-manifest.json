@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sabari-portfolio/src/static/css/main.8bfab628.css",
+    "main.js": "/sabari-portfolio/src/static/js/main.b46aae88.js",
+    "static/media/jpmc-agile-1.png": "/sabari-portfolio/src/static/media/jpmc-agile-1.fd17f206a1c9f2f7ed9b.png",
+    "static/media/react.png": "/sabari-portfolio/src/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/github.png": "/sabari-portfolio/src/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/php-c.png": "/sabari-portfolio/src/static/media/php-c.796ab6f8601435242cc8.png",
+    "static/media/html.png": "/sabari-portfolio/src/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/portfolio-logo.png": "/sabari-portfolio/src/static/media/portfolio-logo.0cb540df5bbddc382b0f.png",
+    "static/media/css.png": "/sabari-portfolio/src/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/mysql-c.png": "/sabari-portfolio/src/static/media/mysql-c.4daa5b0f3458240fa744.png",
+    "static/media/js.png": "/sabari-portfolio/src/static/media/js.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/laravel-c.png": "/sabari-portfolio/src/static/media/laravel-c.51dbc4cc74840173d159.png",
+    "index.html": "/sabari-portfolio/src/index.html",
+    "main.8bfab628.css.map": "/sabari-portfolio/src/static/css/main.8bfab628.css.map",
+    "main.b46aae88.js.map": "/sabari-portfolio/src/static/js/main.b46aae88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bfab628.css",
+    "static/js/main.b46aae88.js"
+  ]
+}
