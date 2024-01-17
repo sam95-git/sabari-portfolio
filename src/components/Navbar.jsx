@@ -39,13 +39,13 @@ const Navbar = () => {
             <div className={!nav ? "hidden" : "absolute bg-[#262626] top-0 left-0 h-screen w-full flex flex-col justify-center items-center"}>
                 <ul>
                     <li className="text-4xl py-6">
-                        <Link to='home' smooth={true} duration={500} >Home</Link>
+                        <Link onClick={clickHandler} to='home' smooth={true} duration={500} >Home</Link>
                     </li>
                     <li className="text-4xl py-6">
-                    <Link to='about' smooth={true} duration={500} >About</Link>
+                    <Link onClick={clickHandler} to='about' smooth={true} duration={500} >About</Link>
                     </li>
                     <li className="text-4xl py-6">
-                    <Link to='skills' smooth={true} duration={500} >Skills</Link>
+                    <Link onClick={clickHandler} to='skills' smooth={true} duration={500} >Skills</Link>
                     </li>
                     <li className="text-4xl py-6" href="../assets/sabari_cv.pdf">Resume</li>
                 </ul>
