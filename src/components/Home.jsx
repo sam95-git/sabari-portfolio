@@ -11,7 +11,7 @@ const Home = () => {
                 <h2 className="text-4xl md:text-6xl text-gray-300"> I'm a Full Stack Developer, </h2>
                 <p className="text-gray-300 py-3 max-w-[700px]">Currently harnessing my skills to architect and develop impactful web applications. Let's bring your ideas to life with cutting-edge solutions!</p>
                 <div>
-                    <button className="group text-1.5xl text-white border-2 flex items-center max-w-[200px] hover:bg-[#fcc203] hover:border-[#fcc203] py-3 px-6 my-2">
+                    <button className="group text-1.5xl text-white border-2 flex items-center max-w-[200px] rounded-md hover:bg-[#fcc203] hover:border-[#fcc203] py-3 px-6 my-2">
                         <Link to="skills" smooth={true} duration={500} >
                             View My Skills
                         </Link>
