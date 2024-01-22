@@ -28,7 +28,7 @@ const Work = () => {
                         <img className="mx-auto w-250 h-250 hover:bg-[#4d4d4d]" src={jpmc} alt="jpmc-logo" />
                         <div>
                             <button onClick={certificateOpen} className="group text-1.5xl text-white border-2 flex items-center max-w-[200px] rounded-md hover:bg-[#fcc203] hover:border-[#fcc203] py-3 px-6 my-2">
-                                View Certificate
+                                Certificate
                             </button>
                         </div>
                     </div>
